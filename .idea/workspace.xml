@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f535830-d64a-48dd-9ec7-6f1dfc04dda9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/AmericanoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/EspressoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AbstractFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Adapter/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Adapter/MemoryCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Adapter/MemoryCardAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Adapter/USBReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/Americano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/Espresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Proxy/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Proxy/DatabaseProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Proxy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Proxy/RealDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/FirstClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Singleton/SecondClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Project/.idea/Spring Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Project/META-INF/application.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring Project/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/.idea/ООАП.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/3 лаба/3 лаба.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/feff/feff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/lab3.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/WindowCloseCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/WindowOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/WindowOpenForAirCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/src/noCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3.1/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Close.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Open.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Ventilation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/WindowCloseCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/WindowOpenCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/WindowOpenForAirCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/src/noCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab3/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/ContactAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/CustomerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/ExampleInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/Information.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab5/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/lab_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/o3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Commands/Close.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Commands/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Commands/Open.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Commands/Ventilation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_3/src/Window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/lab_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/AMM_team/AMMTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/AMM_team/AMMTeamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/AMM_team/staff/AMMDancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/AMM_team/staff/AMMLeadingDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/AMM_team/staff/AMMSinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/FCS_team/FCSTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/FCS_team/FCSTeamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/FCS_team/staff/FCSDancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/FCS_team/staff/FCSLeadingDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/FCS_team/staff/FCSSinger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/teams/PerformingTeam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/teams/TeamFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/teams/staff/Dancer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/teams/staff/LeadingDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/lab_4/src/teams/staff/Singer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-app1/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/spring-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/spring-course/src/test/java/ru/khokhlov/spring/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/java/ru/khokhlov/vacationpaycalculator/Controller/VacationPayCalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/java/ru/khokhlov/vacationpaycalculator/DTO/Request/VacationPayDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/java/ru/khokhlov/vacationpaycalculator/DTO/Response/AmountOfVacationPayDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/java/ru/khokhlov/vacationpaycalculator/Service/Impl/VacationPayCalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/java/ru/khokhlov/vacationpaycalculator/Service/VacationPayCalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/java/ru/khokhlov/vacationpaycalculator/VacationPayCalculatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/vacation-pay-calculator/src/test/java/ru/khokhlov/vacationpaycalculator/ServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ООАП/window/untitled7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1  лаба/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1  лаба/Test_List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1  лаба/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../graph/Graph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../graph/first_lab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/Formula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/cutter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab2/second_lab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lib/junit-platform-console-standalone-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/AppTestCutter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/AppTestFormula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/AppTestTreeAndNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/Formula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/Tree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/cutter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/bin/secon_lab.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/lib/junit-platform-console-standalone-1.9.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/AppTestCutter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/AppTestFormula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/AppTestTreeAndNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/Formula.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/Tree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/cutter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../second_lab/src/second_lab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Academic_performance.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Academic_performance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Administration.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Administration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/DB/data_base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/GUI.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Lessons.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Lessons.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Timetable.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/Timetable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../voenka/re_call/pocket.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="patterns" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="2SpcyukjRdnMVQ8BSzlzGbXtcMP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.Factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Proxy.Main" />
+      <module name="patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.AbstractFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.AbstractFactory.Main" />
+      <module name="patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Adapter.Main" />
+      <module name="patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Factory.Main" />
+      <module name="patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="org.example.Singleton.Main" />
+      <module name="patterns.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.org.example.AbstractFactory.Main" />
+      <item itemvalue="Application.org.example.Adapter.Main" />
+      <item itemvalue="Application.org.example.Factory.Main" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.org.example.Singleton.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.example.Adapter.Main" />
+        <item itemvalue="Application.org.example.Factory.Main" />
+        <item itemvalue="Application.org.example.AbstractFactory.Main" />
+        <item itemvalue="Application.org.example.Singleton.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f535830-d64a-48dd-9ec7-6f1dfc04dda9" name="Changes" comment="" />
+      <created>1689847221585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689847221585</updated>
+      <workItem from="1689847222975" duration="2439000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
